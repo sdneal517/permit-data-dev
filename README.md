@@ -27,7 +27,3 @@ Each page is designed to help business owners see where activity is rising, who‚
 - `Total Valuation = SUM(permits_gold[valuation])`
 - `Unique Contractors = DISTINCTCOUNT(permits_gold[contractor])`
 - `Rank Contractors = RANKX(ALL(Contractor), [Total Permits])`
-
----
-
-## üìÅ Repository Layout
